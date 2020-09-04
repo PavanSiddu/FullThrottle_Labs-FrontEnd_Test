@@ -1,8 +1,8 @@
 # FullThrottle_Labs-FrontEnd_Test
 Requirements:
   >You need to install nodejs on your machine.
-After going to your project folder install all the dependencies by command - npm install
-The above command will install all the dependencies needed to the project.
+After going to your project folder install all the dependencies by command - "npm install".
+This command will install all the dependencies needed to the project.
 
 Type the command - "npm start" to run the Application.
 You will see a User interface on "localhost:3000".
