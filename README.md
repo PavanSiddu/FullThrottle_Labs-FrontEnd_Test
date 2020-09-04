@@ -8,7 +8,7 @@ Type the command - "npm start" to run the Application.
 You will see a User interface on "localhost:3000".
 
 How to Use?
-  The JSON file used in this project haas only 2 entry of the user but The application can be used for N users.
+  The JSON file used in this project has only 2 entries of the user but The application can be used for N users.
   The N number of users are presented on the User interface in a table format with each user having a button for User Information.
   On Click of respected user button, A calender will be popped out, By clicking on specific date the UI shows whether the User is Active on the particular day or not.
   If Active, The Time at which He/She was active will be displayed.
