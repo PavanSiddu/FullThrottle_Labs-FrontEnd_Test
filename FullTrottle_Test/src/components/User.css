@@ -1,0 +1,13 @@
+.h1{
+    color:white;
+    text-align: center;
+    font-style: italic;
+    padding-top: 20px;
+    font-size: 40px;
+    text-shadow: 2px 2px 8px #ff0000;
+}
+
+.table{
+    margin:40px 80px 0px 80px;
+    padding:10px;
+}

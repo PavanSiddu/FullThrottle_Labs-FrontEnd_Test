@@ -1,0 +1,12 @@
+.header{
+    margin:0;
+    /* font-style: italic; */
+    text-align: center;
+    color:#ffe6e6;
+    text-shadow: 2px 2px 8px #ff0000;
+    font-size : 40px;
+}
+
+.header > h1{
+    padding:15px;
+}

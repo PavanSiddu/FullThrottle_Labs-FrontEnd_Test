@@ -1,0 +1,11 @@
+.app{
+    margin: 0;
+    background-image: url('./particle-background.gif');
+    object-fit: contain;
+    min-height:100vh;
+}
+
+
+
+
+/* style={{ backgroundImage: `url(${Bg})`, padding: '50px', minHeight: '76vh',objectFit:'contain' }} */

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d2ff61b.chunk.css",
+    "main.js": "/static/js/main.dbc5def7.chunk.js",
+    "main.js.map": "/static/js/main.dbc5def7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb9ee77d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb9ee77d.js.map",
+    "static/css/2.8dbe6964.chunk.css": "/static/css/2.8dbe6964.chunk.css",
+    "static/js/2.217959ff.chunk.js": "/static/js/2.217959ff.chunk.js",
+    "static/js/2.217959ff.chunk.js.map": "/static/js/2.217959ff.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.065c729171273fb3981fe0010230e8cb.js": "/precache-manifest.065c729171273fb3981fe0010230e8cb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8dbe6964.chunk.css.map": "/static/css/2.8dbe6964.chunk.css.map",
+    "static/css/main.7d2ff61b.chunk.css.map": "/static/css/main.7d2ff61b.chunk.css.map",
+    "static/js/2.217959ff.chunk.js.LICENSE.txt": "/static/js/2.217959ff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/particle-background.6ecf9853.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb9ee77d.js",
+    "static/css/2.8dbe6964.chunk.css",
+    "static/js/2.217959ff.chunk.js",
+    "static/css/main.7d2ff61b.chunk.css",
+    "static/js/main.dbc5def7.chunk.js"
+  ]
+}
